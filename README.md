@@ -1,1 +1,1 @@
-[personal portfolio website] (https://jjustinyyang.github.io/portfolio/)
+[personal portfolio website](https://jjustinyyang.github.io/portfolio/)
